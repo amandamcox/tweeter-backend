@@ -8,3 +8,9 @@ This project uses Node and Express to create two endpoints for retrieving and cr
 2. Install dependencies via `npm install`
 3. Add an `.env` file with your *PROD_MONGODB_URI* and *PORT* variables
 4. Start server via `npm run start`
+
+## Demo
+See a working demo of Tweeter at: https://evening-sea-10500.herokuapp.com/
+
+## Frontend Code
+See the full React frontend code here: https://github.com/amandamcox/tweeter-frontend
